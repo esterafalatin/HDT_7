@@ -1,22 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package diccionario;
 
 /**
- *
- * @author happy
+ * Esteban Rafael Barrera   - 13413
+ * Jorge Daniel Mejia       - 13271
+ * Diego Alejandro Juarez   - 13
+ * Jose Alejandro Sagastume - 13
  */
 public class Diccionario {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        
+        
+        
+        
+        
+        
     }
     
 }
