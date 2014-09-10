@@ -8,7 +8,11 @@ package diccionario;
 
 /**
  *
- * @author Esteban
+ * Esteban Barrera 13413
+ * Daniel Mejia 13271
+ * Diego Juarez 13280
+ * Jose Sagastumen 13
+ * La clase Association<K,V> fue tomada del tema de Hastable que se subio en blackboard. 
  */
 public class Association<K,V>
 {
