@@ -6,6 +6,9 @@ package diccionario;
  * Jose Alejandro Sagastume - 13
  * @param <E>
  */
+
+// Implementacion de la Clase BinaryTree para hacer las operaciones de un arbol Binario
+// Codigo Tomado del libro 
 public class BinaryTree<E>
 {
     protected E val; 
