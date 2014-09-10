@@ -1,4 +1,11 @@
-
+package diccionario;
+/**
+ * Esteban Rafael Barrera   - 13413
+ * Jorge Daniel Mejia       - 13271
+ * Diego Alejandro Juarez   - 13
+ * Jose Alejandro Sagastume - 13
+ * @param <E>
+ */
 public class BinaryTree<E>
 {
     protected E val; 
