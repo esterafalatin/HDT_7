@@ -9,11 +9,12 @@ package diccionario;
 
 // Implementacion de la Clase BinaryTree para hacer las operaciones de un arbol Binario
 // Codigo Tomado del libro 
+
 public class BinaryTree<E>
 {
-    protected E val; // value associated with node
-    protected BinaryTree<E> parent; // parent of node
-    protected BinaryTree<E> left, right; // children of node
+    protected E val; 
+    protected BinaryTree<E> parent; 
+    protected BinaryTree<E> left, right; 
     
     public BinaryTree(E value, BinaryTree<E> left, BinaryTree<E> right, BinaryTree<E> parent){
         val=value;
@@ -35,7 +36,7 @@ public class BinaryTree<E>
     }
 
     public BinaryTree<E> parent()
-    
+
     {
         return parent;
     }
@@ -53,15 +54,15 @@ public class BinaryTree<E>
     }
     
     public E value()
-   
-    {
-        return val;
-    }
-    
-    public void setValue(E value)
-    
-    {
-        val = value;
-    }
+
+	{
+		return val;
+	}
+	
+	public void setValue(E value)
+
+	{
+		val = value;
+	}
     
 }
